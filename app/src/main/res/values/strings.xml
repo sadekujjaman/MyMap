@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="map_api_key">AIzaSyCaudK-Hnhg1BZcTZAMEop7OgqVWmDHd7o</string>
+    <string name="map_button_text">Map</string>
+    <string name="search_input_text">Enter Address, City or Zip Code</string>
+</resources>
